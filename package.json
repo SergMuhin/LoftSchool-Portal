@@ -40,6 +40,6 @@
     "test": "mocha --recursive --exit"
   },
   "keywords": [],
-  "author": "leonid_dashko",
+  "author": "Serg",
   "license": "ISC"
 }
