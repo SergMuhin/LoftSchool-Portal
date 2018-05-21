@@ -1,6 +1,5 @@
 
-Task itself can be found here (the original version is below):
-[https://github.com/AlexSyrtsov/loftschool_node](https://github.com/AlexSyrtsov/loftschool_node)
+# Code review
   
   
 =================================  
